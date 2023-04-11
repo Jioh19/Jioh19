@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Oh</h1>
-<h3 align="center">A passionate Korean frontend developer from Chile</h3>
+<h3 align="center">A passionate Korean Fullstack developer from Chile</h3>
 
 - 🌱 I’m currently learning **HTML CSS JS**
 
