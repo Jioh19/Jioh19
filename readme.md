@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Oh</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h3 align="center">A passionate fullstack developer from Korea</h3>
 
 - 🌱 I’m currently learning **HTML CSS Javascript GO**
+
+- 📫 How to reach me **jioh1982@gmail.com**
+
+- 📄 Know about my experiences [10 Years managing an import business with retail sales](10 Years managing an import business with retail sales)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
