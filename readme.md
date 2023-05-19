@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Oh</h1>
 <h3 align="center">A passionate fullstack developer from Chile-Korea</h3>
 
-- 🌱 I’m currently learning **HTML CSS Javascript GO Postgres**
+- 🌱 I’m currently learning **HTML CSS Javascript GO PostgreSQL**
 
 - 📫 How to reach me **jioh1982@gmail.com**
 
