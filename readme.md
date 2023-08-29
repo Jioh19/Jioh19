@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java Spring Boot<br>⚡ Fun fact, I´m a Korean living in Chile
+🌱 I’m currently learning React<br>⚡ Fun fact, I´m a Korean living in Chile
 
 
 ## 🌐 Socials:
