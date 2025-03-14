@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jioh19&label=Profile%20views&color=0e75b6&style=flat" alt="jioh19" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Go, NestJS**
+- 🌱 I’m currently learning **Go, C#*
 
 - 📫 How to reach me **jioh1982@gmail.com**
 
