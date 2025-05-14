@@ -12,7 +12,9 @@ I'm a developer from South Korea who is passionate about building impactful soft
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jioh19&show_icons=true&theme=radical&rank_icon=github&border_radius=10&card_width=400" alt="stats graph"/>
+<a href="https://skyline.github.com/jioh19/2023">
+  <img src="https://github.com/jioh19/jioh19/raw/main/skyline.png" alt="2023 GitHub Skyline" width="500">
+</a>
   <img src="https://github-readme-stats.vercel.app/api?username=Jioh19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Jioh19&theme=synthwave&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioh19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
