@@ -24,6 +24,8 @@ I'm a developer from South Korea who is passionate about building impactful soft
 
 ---
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jioh19&style=flat-square&color=blueviolet" alt="Profile Views Counter"/>
+  <br>
   <img src="https://visitcount.itsvg.in/api?id=Jioh19&icon=0&color=0" />
 </div>
 
