@@ -46,13 +46,5 @@ This GitHub documents my learning journey, projects, and experiments.
   <!-- Reliable GitHub Stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jioh19&show_icons=true&theme=synthwave&count_private=true" />
 
-  <!-- Reliable Streak Stats -->
-  <img height="170" src="https://streak-stats.demolab.com?user=Jioh19&theme=synthwave&hide_border=false" />
-
 </div>
 
----
-
-## 👨‍💻 Top Languages
-<div align="center">
-  <img height="170" src="https://github-readme-stats.ver
