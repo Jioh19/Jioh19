@@ -48,3 +48,9 @@ This GitHub documents my learning journey, projects, and experiments.
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jioh19&theme=radical&no-frame=false&margin-w=15" />
+</div>
