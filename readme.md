@@ -1,63 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,19,22&height=300&section=header&text=Juan%20Oh%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20Chile%20Korea&descAlignY=55&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,19,22&height=280&section=header&text=Juan%20Oh%20Kim&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Chile%20%7C%20Korea&descAlignY=55&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FC46FC&center=true&vCenter=true&width=600&lines=Building+impactful+software+solutions;Expanding+technical+skills;Learning+Go+and+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FC46FC&center=true&vCenter=true&width=650&lines=Building+impactful+software+solutions;Expanding+technical+skills;Learning+Go+and+C%23" alt="Typing SVG" />
 </div>
 
-<h3 align="center">✨ About Me ✨</h3>
-<p align="center">
-  I'm passionate about building impactful software solutions. Welcome to my GitHub profile, where I share my journey through code!
-</p>
+---
 
-- 🌱 Currently learning **Go, C#**
-- 💻 Working on expanding my technical skills
-- 🚀 Exploring new technologies and frameworks
+## ✨ About Me
+I'm a developer passionate about building impactful and scalable software solutions.  
+This GitHub is where I share my learning journey, experiments, and projects.
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jioh19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jioh19" height="30" width="40" /></a>
-  <a href="https://youtube.com/@jioh19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jioh19" height="30" width="40" /></a>
-  <a href="mailto:jioh1982@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
-</p>
+- 🌱 Currently learning **Go** and **C#**
+- 💻 Focused on improving backend development skills
+- 🚀 Exploring modern frameworks, cloud technologies, and system design
 
-<h3 align="left">⚒️ Tech Stack:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,java,html,js,ts,go,aws,vercel,dotnet,express,nodejs,spring,nginx,maven,postgres,mysql,mongodb,git,docker,linux,arch,latex&theme=dark" />
-  </a>
-</p>
+---
 
-<hr/>
-
-<div align="center">
-  <h3>📊 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jioh19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jioh19&theme=synthwave&hide_border=false" alt="GitHub Streak" />
+## 🌐 Connect with Me
+<div>
+  <a href="https://linkedin.com/in/jioh19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://youtube.com/@jioh19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <a href="mailto:jioh1982@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" height="30" width="40" /></a>
 </div>
 
+---
+
+## ⚒️ Tech Stack
 <div align="center">
-  <h3>👨‍💻 Top Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioh19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,go,java,ts,js,html,css,aws,vercel,dotnet,express,nodejs,spring,nginx,maven,postgres,mysql,mongodb,git,docker,linux,arch,latex&theme=dark" />
 </div>
 
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <h3>🏆 GitHub Trophies:</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jioh19&theme=radical&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jioh19&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jioh19&theme=synthwave&hide_border=false" height="170" />
 </div>
 
-<hr/>
+---
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+## 👨‍💻 Top Languages
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioh19&theme=synthwave&hide_border=false&layout=compact" height="170" />
 </div>
 
+---
+
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jioh19&style=flat-square&color=blueviolet" alt="Profile Views Counter"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jioh19&theme=radical&no-frame=false&margin-w=15" />
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jioh19&style=flat-square&color=blueviolet" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,19,22&height=120&section=footer" />
-</div> 
+</div>
