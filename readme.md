@@ -20,9 +20,9 @@ Databases
 DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" /> </div>
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jioh19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=false" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioh19&layout=compact&theme=synthwave&hide_border=false" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=Jioh19&theme=synthwave&hide_border=false" /> </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Jioh19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&cache_seconds=1800" />
 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jioh19&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" /> </div>
+<img src="https://github-profile-trophy.vercel.app/?username=Jioh19&theme=radical&margin-w=15" />
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jioh19&theme=react-dark&hide_border=false" /> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Jioh19&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,19,22&height=100&section=footer" /> </div>
